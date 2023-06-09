@@ -5,13 +5,7 @@ import Header from '../../components/Header'
 export default function Home() {
   return (
     <View style={styles.container}>
-        <Header />
-      <Text>Pagina Home!</Text>
-      <Text>Pagina Home!</Text>
-      <Text>Pagina Home!</Text>
-      <Text>Pagina Home!</Text>
-      <Text>Pagina Home!</Text>
-      <Text>Pagina Home!</Text>
+        <Header name={'Diogo Scohati'}/>
       <Text>Pagina Home!</Text>
     </View>
   );
